@@ -1,3 +1,3 @@
 export default function outputPage() {
-  return <div>hekki</div>;
+  return <div>hello</div>;
 }
